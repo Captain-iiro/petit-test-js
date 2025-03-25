@@ -1,6 +1,6 @@
 # 🌟 Bienvenue dans mon brouillon de code JavaScript
 
-Ce fichier est dédié à mes expérimentations et tests en JavaScript. Vous y trouverez divers extraits de code, essais de nouvelles fonctionnalités et explorations de chose en js. N'hésitez pas à parcourir et à apprendre avec moi !
+Ce projet est dédié à mes expérimentations et tests en JavaScript. Vous y trouverez divers extraits de code, essais de nouvelles fonctionnalités et explorations de bibliothèques. N'hésitez pas à parcourir et à apprendre avec moi !
 
 ---
 
